@@ -1,4 +1,4 @@
-package com.example.co_working_space_app
+package com.coworkingspace.app
 
 import io.flutter.embedding.android.FlutterActivity
 

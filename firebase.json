@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "co-working-space-app",
+          "appId": "1:810771713613:android:31a0d8a7a97fde76289604",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "co-working-space-app",
+          "appId": "1:810771713613:ios:dcf797e8efb6245f289604",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "co-working-space-app",
+          "configurations": {
+            "android": "1:810771713613:android:31a0d8a7a97fde76289604",
+            "ios": "1:810771713613:ios:dcf797e8efb6245f289604"
+          }
+        }
+      }
+    }
+  }
+}

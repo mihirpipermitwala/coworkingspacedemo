@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810771713613",
+    "project_id": "co-working-space-app",
+    "storage_bucket": "co-working-space-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810771713613:android:35762f355c7fa8c5289604",
+        "android_client_info": {
+          "package_name": "com.co_working_space.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF38B9mNZBwmGlMXV9ggB3CHXB0ibyaAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810771713613:android:31a0d8a7a97fde76289604",
+        "android_client_info": {
+          "package_name": "com.coworkingspace.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF38B9mNZBwmGlMXV9ggB3CHXB0ibyaAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
